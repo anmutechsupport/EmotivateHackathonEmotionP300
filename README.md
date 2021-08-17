@@ -70,9 +70,13 @@ After all 3 steps, you should now have Emotion300 fully functional!
 
 ## P300 Algorithm
 
+![Untitled (6)](https://user-images.githubusercontent.com/69090449/129693658-082e1cdb-d22d-4115-bba4-de4f1eee554a.png)
+
 [Google Colaboratory](https://colab.research.google.com/drive/1zgdP8xpEj1k7jKsD6i2Woz4YUKTpFKnv#scrollTo=AhTL4FXp6rFO)
 
 ## Emotion Detection Algorithm
+
+![Untitled (5)](https://user-images.githubusercontent.com/69090449/129693678-e0df327e-cc8e-40d4-b622-c9a0333c6f1a.png)
 
 [Google Colaboratory](https://colab.research.google.com/drive/1y3M_dv__mjf2x9HnpgyBjFEjFKCWtmCI#scrollTo=hka-rLhQeXmA)
 
