@@ -90,7 +90,7 @@ So we’re bound to make some wrong assumptions on both ends, and as behavioural
 
 Let’s begin with message senders. A big problem people have when conveying digital emotions is often that they fail to appreciate there’s a problem at all. In one experiment from a 2005 study, test participants emailed 10 statements to a recipient. Some statements were serious, some sarcastic. These senders believed the recipient would correctly identify the intended emotion behind most of the messages. In fact, the recipients only identified seriousness or sarcasm 56% of the time, which isn’t much better than chance 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f210e92-ce6b-4f43-99c6-3af61fc1c5a1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f210e92-ce6b-4f43-99c6-3af61fc1c5a1/Untitled.png)
+![Untitled (7)](https://user-images.githubusercontent.com/69090449/129692409-eecba62a-c63d-49ee-8658-448769ae294e.png)
 
 Here’s the key twist: When the same messages were transmitted through a voice recording, the recipient interpreted the emotion correctly 73% of the time, just about what senders expected. Vocal tones captured the emotional nuance that email couldn’t. The researchers believe that when people type out a sarcastic line, they hear it in their heads as sarcastic, and thus fail to appreciate that others won’t hear it the same way. If comprehending human communication consisted merely of translating sentences and syntax into thoughts and ideas, there would be no room for misunderstanding.
 
@@ -102,7 +102,7 @@ Take another experiment from a different 2005 study. This time, test participant
 
 Email misinterpretation tends to comes in two forms: neutral or negative. Test participants rated the Asian’s email answers as more intelligent than Metallica dude’s. But when the exact same answers were given to other test participants over the phone–with voice filling in some of the character gaps–the two strangers were rated as equally smart. So when we receive an email from someone we don’t know too well, we often revert to personality stereotypes, and in doing so raise the chances of emotional misinterpretation.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5961c48-3424-4a84-8631-b41fb042b086/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5961c48-3424-4a84-8631-b41fb042b086/Untitled.png)
+![Untitled (8)](https://user-images.githubusercontent.com/69090449/129692472-6bf76b91-d0e1-45f1-a154-8e20c170a264.png)
 
 Digital miscommunication wouldn’t be much of a problem if we always adopted the most optimistic or generous view of an ambiguous email or text. But that’s not what we do. 
 
