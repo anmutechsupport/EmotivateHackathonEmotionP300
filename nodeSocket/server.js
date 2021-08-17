@@ -386,8 +386,8 @@ io.on('connection', socket => {
     let socketUrl = 'wss://localhost:6868'
     let userAuth = {
       // "license":"your license",
-      "clientId": "vZBMOf14yce3Vxe5UXzzXpZexee86PDC1Iq5nSrC", //vZBMOf14yce3Vxe5UXzzXpZexee86PDC1Iq5nSrC - Anush
-      "clientSecret": "hLyAJyTACwukQTMlpU97NKWxwoK4jkfguFa9TBJbv9ybsaWV3NLpXaZKtlwpgxVACK6QYp5XrYDOPtPDxWeBcsWCTzltK329kHsWGhBS6WcSGJkUVlnHVKFyMmdTiANZ", //hLyAJyTACwukQTMlpU97NKWxwoK4jkfguFa9TBJbv9ybsaWV3NLpXaZKtlwpgxVACK6QYp5XrYDOPtPDxWeBcsWCTzltK329kHsWGhBS6WcSGJkUVlnHVKFyMmdTiANZ - Anush
+      "clientId": authinfo.userid
+      "clientSecret": authinfo.usersecret
       "debit" : 100
     }
     
