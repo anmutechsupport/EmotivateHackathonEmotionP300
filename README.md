@@ -1,1 +1,3 @@
 # EmotivateHackathonEmotionP300
+
+With almost 4 billion people active on social media platforms it is hard to argue that Social Media has not had an important impact on society in the 21st century. Though it has impacted billions through its existence, it failed to efficiently provide a positive impact to the disabled community. Furthermore, many disabled individuals, both physically and mentally impaired, may lack the ability to accurately portray the emotion that they want to give to their friends, family, and loved ones. With Emotion300, we provide a fast and intuitive method for the disabled to interact with social media and additionally show emotions through their messages. 
