@@ -1,0 +1,21 @@
+{
+  "name": "nodesocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cortexAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "socket.io": "^4.1.3",
+    "ws": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
