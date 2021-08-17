@@ -1,0 +1,5 @@
+flask_cors
+flask_socketio
+websockets
+asyncio
+fastai
