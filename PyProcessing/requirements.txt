@@ -1,5 +1,4 @@
-flask_cors
-flask_socketio
-websockets
-asyncio
-fastai
+flask_cors==3.0.10
+flask_socketio==5.1.1
+websockets==9.1
+fastai==2.4

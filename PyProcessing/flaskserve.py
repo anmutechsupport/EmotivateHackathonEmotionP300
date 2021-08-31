@@ -2,13 +2,10 @@
 from flask import Flask, request, jsonify, send_file, abort, send_from_directory
 from flask_cors import CORS
 import json
-import tempfile
 import pickle
 from preprocessing import *
 from tqdm import tqdm 
-from emotivate import *
 from flask_socketio import SocketIO
-from cortex import Cortex
 from model import * # quick fix, check later
 from statistics import mode
         
