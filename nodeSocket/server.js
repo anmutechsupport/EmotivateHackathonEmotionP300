@@ -386,8 +386,8 @@ io.on('connection', socket => {
     let socketUrl = 'wss://localhost:6868'
     let userAuth = {
       // "license":"your license",
-      "clientId": authinfo.userid
-      "clientSecret": authinfo.usersecret
+      "clientId": authinfo.userid,
+      "clientSecret": authinfo.usersecret,
       "debit" : 100
     }
     
